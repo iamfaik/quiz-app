@@ -1,0 +1,21 @@
+.main{
+    margin: 0 auto;
+    width: 75%;
+    height: 70vh;
+    background-image: url('https://img.freepik.com/premium-photo/white-questions-mark-illustration-yellow-background-copy-space-faq-question-answer-time-by-3d-rendering_50039-2919.jpg');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    border: 1px solid black;
+    border-radius: 20px;
+}
+h1,h2,h3,h4{
+    text-align: center;
+    margin: 40px;
+    font-family: 'Dancing Script', cursive;
+    color:darkblue;
+}
+h2{
+    color: rebeccapurple !important;
+    width: 60%;
+    margin: auto;
+}
